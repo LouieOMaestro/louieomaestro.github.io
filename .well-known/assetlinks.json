@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.louieomaestro.twa",
+        "sha256_cert_fingerprints": ["81:00:DD:15:66:F1:CD:45:2A:E5:89:00:B2:8B:3F:43:68:DD:E3:CF:4E:01:06:0C:1D:33:8F:14:0A:7C:4E:91"]
+      }
+    }]
